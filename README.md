@@ -1,27 +1,17 @@
 # Divine
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
+Divine is a tasty food and beverage shop that customer are enabling to see the tasty foods, beverages and ice-cream selling here.
+Also they can make there orders before goto the shop from this website. Unless customers have to wait until prepare there orders so this web site 
+help customer and owner of this shop also avoiding customer dissatisfying and waiting.
 
-## Development server
+###Used language make this website :
+Angular 4 / Bootstrap 3(npm install)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This website is highly responsive and mainly forcus on front-end developing. Hope to make an android app also for this website.
 
-## Code scaffolding
+##Run the project
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. clone the project. URL :- https://github.com/BinojBI/Divine.git
+2. cd Divine(Folder)
+3. Run the project cmd(ng serve --open)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
