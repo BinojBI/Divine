@@ -7,12 +7,14 @@ import { ModalModule } from 'ngx-bootstrap/modal';
 
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
+import { CarosalComponent } from './components/carosal/carosal/carosal.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavbarComponent
+    NavbarComponent,
+    CarosalComponent
   ],
   imports: [
     BrowserModule,
