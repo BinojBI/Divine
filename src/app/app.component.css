@@ -1,0 +1,15 @@
+.caption{
+  font-family: "Roboto", sans-serif;
+  margin-top: 5%;
+}
+.para{
+  margin-top: 4%;
+}
+.para p{
+  text-align: justify;
+  font-size: 14px;
+}
+.para img{
+  width:50px;
+  margin-bottom: 5%;
+}
