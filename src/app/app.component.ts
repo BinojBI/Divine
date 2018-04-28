@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { WOW } from 'wowjs/dist/wow.min';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  constructor() { }
+
+  ngOnInit() {
+  }
+  ngAfterViewInit(){
+
+    new WOW().init();
+  }
+
 }
