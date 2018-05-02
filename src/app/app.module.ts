@@ -9,6 +9,7 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { CarosalComponent } from './components/carosal/carosal/carosal.component';
 import { RecentComponent } from './components/recent/recent.component';
 import { AboutusComponent } from './components/aboutus/aboutus.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 
 @NgModule({
@@ -17,11 +18,12 @@ import { AboutusComponent } from './components/aboutus/aboutus.component';
     NavbarComponent,
     CarosalComponent,
     RecentComponent,
-    AboutusComponent
+    AboutusComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
-    
+
     BsDropdownModule.forRoot(),
     TooltipModule.forRoot(),
     ModalModule.forRoot()
