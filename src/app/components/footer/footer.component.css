@@ -1,0 +1,58 @@
+.foot{
+  background-color: Black;
+  color: white;
+  padding-bottom: 3%;
+}
+
+.leftside h5{
+  padding-top: 10%;
+}
+.leftside hr{
+  display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+.leftside p{
+  font-size: 14px;
+  text-align: justify;
+}
+
+.leftside img{
+  width: 40px;
+  height: auto;
+  margin-left: 2%;
+}
+#face{
+  margin-left: 15%;
+}
+.middle1{
+  padding-left: 3%;
+}
+.middle1 h5{
+  padding-top: 18%;
+}
+
+.middle2{
+  padding-left: 2%;
+}
+.middle2 h5{
+  padding-top: 11%;
+}
+.middle2 img{
+  width: 30px;
+  height: auto;
+}
+.middle3 h5{
+  padding-top: 16%;
+}
+.middle3 input[type=submit]{
+  transition: background-color 0.5s ease;
+  background-color: rgb(244, 113, 0);
+  color: black;
+}
+.middle3 input[type=submit]:hover{
+background-color: rgb(247, 174, 6);
+}
