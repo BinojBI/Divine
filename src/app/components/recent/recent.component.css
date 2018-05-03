@@ -8,6 +8,18 @@
 .recent p{
 margin-bottom: 5%;
 }
+.para input[type=button]{
+z-index: 1;
+
+background-color: Transparent;
+background-repeat:no-repeat;
+/* outline-color: black; */
+border: 2px solid rgba(62, 61, 64, 0.48);
+position: absolute;
+width: 100px;
+margin-left: 30%;
+margin-top: 35%;
+}
 .para{
   width: 100%;
 margin: 0;
