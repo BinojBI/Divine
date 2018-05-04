@@ -16,3 +16,9 @@
 .para h5{
   margin-bottom: 4%;
 }
+@media screen and (max-width: 380px) {
+  .caption{
+    font-family: "Roboto", sans-serif;
+    margin-top: 115%;
+  }
+}
