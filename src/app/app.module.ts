@@ -10,6 +10,7 @@ import { CarosalComponent } from './components/carosal/carosal/carosal.component
 import { RecentComponent } from './components/recent/recent.component';
 import { AboutusComponent } from './components/aboutus/aboutus.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { LoginComponent } from './components/carosal/login/login.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { FooterComponent } from './components/footer/footer.component';
     CarosalComponent,
     RecentComponent,
     AboutusComponent,
-    FooterComponent
+    FooterComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
